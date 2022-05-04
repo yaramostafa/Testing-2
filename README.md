@@ -1,5 +1,6 @@
 # Testing-2
-Code for 
+Code for :
+
 a- Checking if a number is even or odd and testing it using different test suits (using junit)
 
 b- Find Min and Max in an array and testing it using different test suits (using junit)
